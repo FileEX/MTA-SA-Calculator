@@ -8,7 +8,7 @@
 **Domyślnie uruchamiamy klawiszem F3**
 
 ## Prezentacja ##
-**Nie było sensu nagrywać video, są screeny: ** https://imgur.com/a/RXmVZLl
+**Nie było sensu nagrywać video, są screeny:** https://imgur.com/a/RXmVZLl
 
 ## Info ##
 **Jeśli coś ode mnie chcesz, to znajdziesz mnie tutaj:**
